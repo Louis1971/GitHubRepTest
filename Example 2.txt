@@ -1,2 +1,2 @@
 Questo � il secondo esempio
-ora variato in Locale e Remoto
+ora variato in Remoto
