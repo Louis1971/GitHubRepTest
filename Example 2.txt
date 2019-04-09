@@ -1,2 +1,4 @@
 Questo è il secondo esempio
 ora variato in Locale e Remoto
+Questo è il secondo esempio
+ora variato in Locale
